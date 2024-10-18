@@ -3,7 +3,7 @@ applications of quantum image processing"
 
 The file AY_Demo.m is the demo usage of the proposed algorithm. It contains a source code for the proposed fusion method, 
 along with a pair of images for performing the experiment. The dataset used in this paper can be download 
-from https://www.med.harvard.edu/aanlib/home.html. 
+from https://drive.google.com/drive/folders/0BzXT0LnoyRqleHhrdzE3UUVzdVE. 
 
 
 Please refer to our following paper for algorithm details:
